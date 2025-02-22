@@ -5,10 +5,10 @@ const Header = () =>{
             <h2 className="text-2xl"><span className="text-secondary">SOFTWARE</span> <span className="text-primary">DEVELOPER</span></h2>
             <div className="">
                 <ul className="flex pt-2 space-x-4 text-tert text-2xl">
-                    <a target="_blank" href="https://www.linkedin.com/in/saroj-wasti"><i class="fab fa-linkedin-in"></i></a>
-                    <a target="_blank" href="https://www.instagram.com/sarojwasti"><i class="fab fa-instagram"></i></a>
-                    <a target="_blank" href="https://twitter.com/Sarozwosti"><i class="fab fa-twitter"></i></a>
-                    <a target="_blank" href="https://github.com/SarojWasti"><i class="fab fa-github"></i></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/saroj-wasti" className="hover:text-blue-500"><i class="fab fa-linkedin-in"></i></a>
+                    <a target="_blank" href="https://www.instagram.com/sarojwasti" className="hover:text-orange-500"><i class="fab fa-instagram"></i></a>
+                    <a target="_blank" href="https://twitter.com/Sarozwosti" className="hover:text-blue-500"><i class="fab fa-twitter"></i></a>
+                    <a target="_blank" href="https://github.com/SarojWasti" className="hover:text-black"><i class="fab fa-github"></i></a>
                 </ul> 
             </div>
             <p>I am a Software Developer fond of researching, problem solving, programming and always eager and motivated to learn new skills and be efficient. <br /> 

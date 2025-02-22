@@ -3,6 +3,7 @@ import Education from './components/Education';
 import Skills from './components/Skills';
 import Experience from './components/Experience';
 import './components/css/index.css';
+import GitHubRepos from './components/Repository';
 function App() {
 
   return (
@@ -10,7 +11,7 @@ function App() {
       <Header/>
       <Education/>
       <Skills/>
-      <Experience/>
+      <GitHubRepos/>
     </>
   )
 }
