@@ -8,7 +8,7 @@ export default {
     extend: {
       fontFamily:{
         saira:['Saira','sans-serif'],
-        muli: ['Muli','sans-serif'],
+        poppins: ['Poppins','sans-serif'],
       },
       colors:{
         'primary':'#bd5e34',

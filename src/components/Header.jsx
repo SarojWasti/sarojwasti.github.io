@@ -11,8 +11,7 @@ const Header = () =>{
                     <a target="_blank" href="https://github.com/SarojWasti" className="hover:text-black"><i class="fab fa-github"></i></a>
                 </ul> 
             </div>
-            <p>I am a Software Developer fond of researching, problem solving, programming and always eager and motivated to learn new skills and be efficient. <br /> 
-            In my leisure time, I spend and enjoy most of my time gaming and watching European, Asian and South American football.</p>
+            <p>I am a results-driven Software Developer with a strong passion for research, problem-solving, and programming. Constantly seeking opportunities to enhance my skills and efficiency, I am dedicated to building high-quality, scalable solutions. I thrive in dynamic environments and am always eager to embrace new technologies and challenges.</p>
             <hr className="mt-2"/>
         </div>
         

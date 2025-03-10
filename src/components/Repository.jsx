@@ -20,19 +20,18 @@ const GitHubRepos = () => {
     },
     {
       id: 3,
-      name: 'portfolio-website',
-      description: 'My single page portfolio website designed using ReactJS and Tailwind CSS.',
-      link: 'https://github.com/SarojWasti/sarojwasti.github.io',
-      demo: 'https://sarojwasti.github.io/',
-      language: ['JavaScript', 'Tailwind CSS'],
-    },
-    {
-      id: 4,
       name: 'books-management',
       description: 'A library management system developed using Python and SQLite storing books and users information. ',
       link: 'https://github.com/SarojWasti/library-management-system',
       language: ['Python', 'SQLite'],
     },
+    {
+      id: 4,
+      name: 'KanbanIQ-Task-Management',
+      description: 'A task management system built with the MERN stack, with intuitive board for organizing tasks efficiently.',
+      link: 'https://github.com/sagun03/Task-mangement_kanbanIQ',
+      language: ["ReactJs", "NodeJs", "MongoDB", "Firebase"]
+    }
   ];
 
   return (
